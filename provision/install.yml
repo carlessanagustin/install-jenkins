@@ -1,0 +1,6 @@
+---
+- hosts: all
+
+  roles:
+    - { role: common, tags: common }
+    - { role: jenkins, tags: jenkins }

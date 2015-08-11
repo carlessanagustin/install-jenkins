@@ -4,19 +4,21 @@
 
 Esto es el resultado de un tutorial sobre gestión de configuración a través de la instalación automática de Jenkins CI. El contenido completo del tutorial lo compone:
 
-* Youtube
+* Youtube - https://goo.gl/ZJs5eY
 * Github - https://github.com/carlessanagustin/install-jenkins
-* Slideshare
+* Slideshare - http://www.slideshare.net/carlessanagustin/gestin-de-la-configuracin-jenkins-ci
 
-Tutorial realizado por carlessanagustin.com
+**TODO EL TUTORIAL [AQUI](https://goo.gl/ZJs5eY)**
 
 ## 1. Arquitectura
 (CM01b-intro-arquitectura)
+https://goo.gl/hIRTFb
 
 ![Arquitectura](Configuration Management - diagram.png)
 
 ## 2. Software usado
 (CM01c-intro-software)
+http://goo.gl/sWWqBC
 
 ### Listado
 * VirtualBox - https://www.virtualbox.org/
@@ -32,6 +34,7 @@ Tutorial realizado por carlessanagustin.com
 
 ## 3. Configurar Vagrant con su Vagrantfile
 (CM02-vagrant-init)
+http://goo.gl/9l5ZQJ
 
 ## 4. Crear el playbook de Ansible para la instalación de Jenkins CI
 (CM03-ansible-playbook)
@@ -51,3 +54,8 @@ Tutorial realizado por carlessanagustin.com
 ## 9. Compartir el código versionado en Github
 (CM08-git_push-github)
 
+Tutorial realizado por www.carlessanagustin.com
+
+---
+
+Tags: amazon, ansible, aws, git, github, jenkins, sourcetree, ubuntu, vagrant, virtualbox, tutorial

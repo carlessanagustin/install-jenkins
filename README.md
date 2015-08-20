@@ -4,7 +4,7 @@
 
 Esto es el resultado de un tutorial sobre gestión de configuración a través de la instalación automática de Jenkins CI. El contenido completo del tutorial lo compone:
 
-* Youtube - https://goo.gl/ZJs5eY
+* Youtube - https://www.youtube.com/playlist?list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 * Github - https://github.com/carlessanagustin/install-jenkins
 * Slideshare - http://www.slideshare.net/carlessanagustin/gestin-de-la-configuracin-jenkins-ci
 
@@ -12,13 +12,13 @@ Esto es el resultado de un tutorial sobre gestión de configuración a través d
 
 ## 1. Arquitectura
 (CM01b-intro-arquitectura)
-https://goo.gl/hIRTFb
+https://www.youtube.com/watch?v=XXV8WdzRuMw&index=1&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ![Arquitectura](Configuration Management - diagram.png)
 
 ## 2. Software usado
 (CM01c-intro-software)
-http://goo.gl/sWWqBC
+https://www.youtube.com/watch?v=wSoelOs3EOw&index=2&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ### Listado
 * VirtualBox - https://www.virtualbox.org/
@@ -34,25 +34,31 @@ http://goo.gl/sWWqBC
 
 ## 3. Configurar Vagrant con su Vagrantfile
 (CM02-vagrant-init)
-http://goo.gl/9l5ZQJ
+https://www.youtube.com/watch?v=mLYXr0jVJT4&index=3&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ## 4. Crear el playbook de Ansible para la instalación de Jenkins CI
 (CM03-ansible-playbook)
+https://www.youtube.com/watch?v=1fEwOSicKXk&index=4&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ## 5. Refactorizar el playbook de Ansible con estructura de roles
 (CM04-ansible-refactor-roles)
+https://www.youtube.com/watch?v=SZOdGQpjfU4&index=5&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ## 6. Redirección de puertos con Nginx
 (CM05-nginx-jenkins-automatico)
+https://www.youtube.com/watch?v=ZfcOO1u-6_s&index=6&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ## 7. Refactorizar el playbook de Ansible para aceptar Ubuntu 12
 (CM06-refactoring-jdk7)
+https://www.youtube.com/watch?v=M6i5m438DT0&index=7&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ## 8. Instalar Jenkins CI automaticamente en SO de Amazon AWS
 (CM07-aws-jenkins-automatico)
+https://www.youtube.com/watch?v=kgk_aR8XcWI&index=8&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 ## 9. Compartir el código versionado en Github
 (CM08-git_push-github)
+https://www.youtube.com/watch?v=hdrmA8VP4VM&index=9&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 
 Tutorial realizado por www.carlessanagustin.com
 

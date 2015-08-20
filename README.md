@@ -4,7 +4,7 @@
 
 Esto es el resultado de un tutorial sobre gestión de configuración a través de la instalación automática de Jenkins CI. El contenido completo del tutorial lo compone:
 
-* Youtube - https://www.youtube.com/playlist?list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
+* Youtube - https://www.youtube.com/watch?v=XXV8WdzRuMw&list=PLF3EgRIVV_yQzl6ZiT06MDWGvscglDt5a
 * Github - https://github.com/carlessanagustin/install-jenkins
 * Slideshare - http://www.slideshare.net/carlessanagustin/gestin-de-la-configuracin-jenkins-ci
 
